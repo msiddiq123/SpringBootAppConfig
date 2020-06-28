@@ -1,0 +1,2 @@
+app.mq.mssg.type=MQ message type is Request default env.
+app.mq.mssg.priority=MQ message priority is 0 in default env.
